@@ -6,7 +6,7 @@
 		<title>A Prophet</title>
 		<year>2009</year>
 		<genre>Drama</genre>
-		<director> Jacques Audiard</director>
+		<director>Jacques Audiard</director>
 	</film>
 	<film>
 		<title>The Big Lebowski</title>
@@ -22,16 +22,15 @@
 	</film>
 	<film>
 		<title>The Princess Bride</title>
-		<year></year>
+		<year>1987</year>
 		<genre>Fantasy Romance</genre>
-		<director></director>
+		<director>Rob Reiner</director>
 	</film>
 	<film>
 		<title>The Third Man</title>
-		<year></year>
-		<genre></genre>
-		<director></director>
-		<actor></actor>
+		<year>1949</year>
+		<genre>Film-Noir Mystery</genre>
+		<director>Carol Reed</director>
 	</film>
 </films>
 
