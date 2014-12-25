@@ -1,8 +1,7 @@
-<!DOCTYPE films 
-[
-<!ELEMENT film (title,year,genre,director)>
+<?xml version='1.0' encoding='UTF-8'?>
+<!ELEMENT films (film)*>
+<!ELEMENT film (director|genre|year|title)*>
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT year (#PCDATA)>
 <!ELEMENT genre (#PCDATA)>
 <!ELEMENT director (#PCDATA)>
-]>
